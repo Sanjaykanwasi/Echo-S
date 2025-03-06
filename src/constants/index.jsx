@@ -22,78 +22,78 @@ export const navItems = [
 export const testimonials = [
   {
     user: "Daisy Edgar-Jones",
-    company: "Normal People",
+    company: "Full-Stack Developer",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "Echo S has completely transformed the way I code. The AI-powered assistance helps me write clean, optimized code faster than ever. It's like having a personal coding assistant 24/7!",
   },
   {
     user: "Sydney Sweeney",
-    company: "Anyone But You",
+    company: "Software Engineer",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "The automation and scripting features have saved me countless hours. I can now focus on solving real problems instead of repetitive tasks. Highly recommended!",
   },
   {
     user: "Nicolle Wallace",
-    company: "Your Fault",
+    company: "Backend Developer",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "Debugging used to be my biggest headache, but Echo S has made it effortless. The intelligent error detection and suggestions are a lifesaver!",
   },
   {
     user: "Alice Pagani",
-    company: "Don't Kill Me",
+    company: "DevOps Engineer",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Version control has never been easier! The Git integration and AI-powered recommendations make managing projects so smooth. Echo S is a must-have for any developer.",
   },
   {
     user: "Elle Fanning",
-    company: "Teen Spirit",
+    company: "Cybersecurity Analyst",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "As a security-conscious developer, I love how Echo S scans for vulnerabilities and ensures compliance. It gives me peace of mind knowing my code is secure.",
   },
   {
     user: "Lana Del Rey",
-    company: "Summertime Sadness",
+    company: "Mobile App Developer",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "Echo S makes developing for web, mobile, and desktop a breeze. The AI suggestions help me write efficient, reusable code, saving me so much time!",
   },
 ];
 
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "🚀 AI-Powered Code Assistance",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Get real-time suggestions, auto-completions, and error detection to enhance your coding efficiency and accuracy.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "🤖 Automation & Scripting",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Automate repetitive tasks, generate scripts, and optimize workflows with AI-driven automation tools.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "📂 Code Management & Version Control",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Seamlessly integrate with Git and manage your code versions efficiently with built-in tracking and collaboration tools.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "⚡ Code Optimization & Refactoring",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Enhance code quality with AI-suggested optimizations, cleaner structures, and performance improvements.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "🏗️ Seamless API Integration",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Easily integrate third-party APIs and streamline workflows with AI-assisted recommendations.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "🌐 Cross-Platform Development",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Build and test applications across multiple platforms, including web, mobile, and desktop environments.",
   },
 ];
 
